@@ -440,6 +440,7 @@ background-color:hotPink;}
       padding-top: 14px; }
     .search-card .search_item:last-child {
       padding-bottom: 14px;
+}
     .search-card .search_item:hover {
       opacity: 1;
       background-color: #FAFAFA; }
