@@ -58,7 +58,9 @@ a {
 
 .g-mainheader {
   position: relative;
+  top:0;
   left: 0;
+  width:100%
   height:50px;
   background-color:slateGray;
   z-index:1000;
@@ -198,7 +200,8 @@ a {
   background-color: #FC6794; }
 
 .home-content {
-  margin: 40px auto 60px; }
+  margin: 40px auto 60px; 
+background-color:hotPink;}
   .home-content:before, .home-content:after {
     content: '';
     display: table; }
