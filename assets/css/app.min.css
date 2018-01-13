@@ -72,7 +72,19 @@ a {
  font-size:200%;
  display: inline-block;
   }
-  
+.g-mainheader .icon-menu {
+    display: none;
+    position: absolute;
+    top: 22px;
+    right: 0;
+    padding: 8px;
+    font-size: 28px;
+    color: #fff;
+    opacity: .8;
+    border-radius: 3px; }
+    .g-header .icon-menu:active {
+      background-color: rgba(255, 255, 255, 0.2); }
+
 .g-header {
   position: fixed;
   top: 0;
@@ -910,6 +922,8 @@ a {
     top: 0;
     padding: 28px 0; }
     .g-header .icon-menu {
+      display: block; }
+  .g-mainheader .icon-menu {
       display: block; }
     .g-header .g-nav {
       position: relative;
