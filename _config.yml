@@ -16,7 +16,7 @@ nav:
 author: Michelle Liu
 nickname: 
 bio: this is me
-avatar: '/assets/img/profile.png'
+avatar: 'profile.jpg'
 
 # Search
 search: true
