@@ -4,8 +4,6 @@ home-title: Michelle's New Website
 description: pls let this work
 header-img: miseashelliu.github.io/sample header.png
 ---
-<!this is the nav bar area>
-{% include mainheader.html %}
 
 <!this is the colorful header area>
 <div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
@@ -15,6 +13,8 @@ header-img: miseashelliu.github.io/sample header.png
     <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
     {% endif %}
 </div>
+
+{% include mainheader.html %}
 
 <main class="g-container home-content">
     <div class="article-list">
