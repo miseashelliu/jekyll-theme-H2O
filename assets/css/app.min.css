@@ -161,9 +161,10 @@ a {
 
 .home-banner {
   position: relative;
+  top: 0;
   text-align: center;
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0, 38, 55, 0.16); }
+ }
   .home-banner h2, .home-banner h3 {
     position: relative;
     z-index: 1;
@@ -172,7 +173,7 @@ a {
     padding-top: 190px;
     line-height: 38px;
     font-size: 42px;
-    font-family: 'Arial', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+    font-family: 'Arial';
     font-weight: bold;
     letter-spacing: 2px;
     line-height: 52px; }
@@ -207,7 +208,7 @@ a {
 
 .article-list {
   float: left;
-  width: 695px; }
+  width: 870px; }
   .article-list .article-item {
     width: 100%;
     margin-bottom: 16px;
@@ -365,7 +366,7 @@ a {
 
 .g-sidebar-wrapper {
   float: right;
-  width: 240px; }
+  width: 395px; }
 
 .g-sidebar {
   padding: 30px 20px;
