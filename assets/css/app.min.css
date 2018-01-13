@@ -201,7 +201,7 @@ a {
 
 .home-content {
   margin: 40px auto 60px; 
-background-color:hotPink;}
+}
   .home-content:before, .home-content:after {
     content: '';
     display: table; }
@@ -373,7 +373,7 @@ background-color:hotPink;}
    }
   .g-sidebar section {
     padding: 30px 0;
-    border-bottom: 1px solid #E7EAF1; }
+  }
     .g-sidebar section:first-child {
       padding-top: 0; }
     .g-sidebar section:last-child {
