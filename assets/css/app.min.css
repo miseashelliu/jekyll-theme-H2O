@@ -64,6 +64,7 @@ a {
   height:70px 100%;
   background-color:slateGray;
   z-index:1000;
+  padding: 20px;
   }
 
 .g-mainheader .g-nav {
