@@ -52,16 +52,22 @@ a {
 /*** Main style ***/
 .g-container {
   width: 1300px;
-  background-color:hotPink;}
+  background-color:hotPink;
+}
 
 .g-mainheader {
   position: relative;
-  text-align: center; vertical-align: middle; font-size:200%;
   top: 450px;
   left: 0;
   height:24px;
   background-color:slateGray;
+  z-index: 1000;
   }
+.g-mainheader .g-nav {
+  text-align: center; 
+  vertical-align: middle; 
+  font-size:200%;
+
 .g-header {
   position: fixed;
   top: 0;
