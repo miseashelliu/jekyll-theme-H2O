@@ -53,6 +53,7 @@ a {
 .g-container {
   width: 1300px;
   background-color:hotPink;
+  z-index:1000;
 }
 
 .g-mainheader {
@@ -176,17 +177,10 @@ a {
     width: 101%;
     z-index: 0; }
 
-.banner-theme-default {
-  background: -webkit-linear-gradient(0deg, #3CD5FF, #007AFF);
-  background: -o-linear-gradient(0deg, #3CD5FF, #007AFF);
-  background: -moz-linear-gradient(0deg, #3CD5FF, #007AFF);
-  background: linear-gradient(100deg, #3CD5FF, #007AFF); }
-
 .banner-theme-pink {
   background-image:url("/assets/img/main header.png")
+}
 
-.themeColor-default {
-  background-color: #1494FB; }
 
 .themeColor-pink {
   background-color: #FC6794; }
