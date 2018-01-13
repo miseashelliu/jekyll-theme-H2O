@@ -51,7 +51,7 @@ a {
 
 /*** Main style ***/
 .g-container {
-  width: 1300px;
+  width: 100%;
   background-color:hotPink;
   z-index:1000;
 }
