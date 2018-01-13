@@ -59,12 +59,13 @@ a {
   position: relative;
   top: 450px;
   left: 0;
-  height:24px;
+  height:50px;
   background-color:slateGray;
   z-index:1000;
   }
 
 .g-mainheader .g-nav {
+ float: center;
  text-align: center; 
  vertical-align: middle; 
  font-size:200%;
