@@ -62,7 +62,13 @@ a {
   height:24px;
   background-color:slateGray;
   }
-
+.g-mainheader .g-nav {
+ text-align: center; 
+ vertical-align: middle; 
+ font-size:200%;
+ display: inline-block;
+  }
+  
 .g-header {
   position: fixed;
   top: 0;
