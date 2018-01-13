@@ -211,6 +211,7 @@ background-color:hotPink;}
 
 .article-list {
   float: left;
+  padding:70px;
   width: 870px; }
   .article-list .article-item {
     width: 100%;
@@ -364,7 +365,8 @@ background-color:hotPink;}
 
 .g-sidebar-wrapper {
   float: right;
-  width: 395px; }
+  width: 395px; 
+  padding: 70px;}
 
 .g-sidebar {
   padding: 30px 20px;
