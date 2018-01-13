@@ -71,12 +71,11 @@ a {
   position:relative;
  text-align: center; 
  vertical-align: middle; 
-  left: 50%;
   align-items: center;
-    justify-content: center;
+  justify-content: center;
  font-size:200%;
  display: inline-block;
-  word-spacing:30px;
+  padding 0 px 30 px
   }
 .g-mainheader .icon-menu {
     display: none;
