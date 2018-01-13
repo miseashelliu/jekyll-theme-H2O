@@ -205,6 +205,8 @@ background-color:hotPink;}
   .home-content:before, .home-content:after {
     content: '';
     display: table; }
+.home-content:after {
+   clear: both; }
 
 
 .article-list {
