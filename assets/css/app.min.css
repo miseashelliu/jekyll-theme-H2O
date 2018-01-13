@@ -167,7 +167,8 @@ a {
   .home-banner h2, .home-banner h3 {
     position: relative;
     z-index: 1;
-  .home-banner h2 {
+}
+    .home-banner h2 {
     padding-top: 190px;
     line-height: 38px;
     font-size: 42px;
