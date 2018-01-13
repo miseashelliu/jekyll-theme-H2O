@@ -178,7 +178,8 @@ a {
     z-index: 0; }
 
 .banner-theme-pink {
-  background:url("../assets/img/profile.png);
+  background:url("../assets/img/profile.png");
+  z-index:1000;
 }
 
 
