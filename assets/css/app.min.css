@@ -397,7 +397,6 @@ background-color:hotPink;}
   .search-card input {
     padding: 30px 20px;
     background-color: #fff;
-    border: 1px solid #E7EAF1;
     border-radius: 3px;
     box-sizing: border-box;
     
@@ -440,8 +439,7 @@ background-color:hotPink;}
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    border-left: 1px solid #E7EAF1;
-    border-right: 1px solid #E7EAF1;
+
     box-sizing: border-box;
     opacity: .8;
     transition: .2s; }
@@ -494,7 +492,7 @@ background-color:hotPink;}
 .g-footer {
   min-height: 40px;
   padding: 20px 0;
-  border-top: 1px solid #E7EAF1;
+
   text-align: center; }
   .g-footer section {
     font-size: 14px;
