@@ -63,7 +63,7 @@ a {
   padding: 16px 0;
   background-color: transparent;
   transition: all .6s;
-  z-index: 1000; }
+ }
   .g-header .g-logo {
     float: left;
     margin-left: 2%;
@@ -132,7 +132,7 @@ a {
   position: relative;
   text-align: center;
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0, 38, 55, 0.16); }
+
   .home-banner h2, .home-banner h3 {
     position: relative;
     z-index: 1;
@@ -195,7 +195,7 @@ a {
     border: 1px solid #E7EAF1;
     border-radius: 3px;
     box-sizing: border-box;
-    box-shadow: 0 1px 3px rgba(0, 37, 55, 0.06); }
+   
     .article-list .article-item:last-child {
       margin-bottom: 0; }
     .article-list .article-item .post-link {
@@ -264,7 +264,7 @@ a {
     border-radius: 50%;
     margin: 0 auto;
     overflow: hidden;
-    box-shadow: 0 1px 4px rgba(100, 110, 120, 0.53); }
+    
     .author-card .avatar img {
       width: 100%; }
   .author-card .author-name {
@@ -331,7 +331,7 @@ a {
   font-family: -apple-system, Verdana, "PingFang SC", "Helvetica Neue", "Arial", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   line-height: 22px;
   box-sizing: border-box;
-  box-shadow: 0 0 .6px #D5DAE1;
+  
   border-radius: 2px;
   background-color: #FAFAFA;
   cursor: pointer;
@@ -352,7 +352,7 @@ a {
   border: 1px solid #E7EAF1;
   border-radius: 3px;
   box-sizing: border-box;
-  box-shadow: 0 1px 3px rgba(0, 37, 55, 0.06); }
+  
   .g-sidebar section {
     padding: 30px 0;
     border-bottom: 1px solid #E7EAF1; }
@@ -377,7 +377,7 @@ a {
     border: 1px solid #E7EAF1;
     border-radius: 3px;
     box-sizing: border-box;
-    box-shadow: 0 1px 3px rgba(0, 37, 55, 0.06);
+  
     position: relative;
     padding: 12px 46px 12px 18px;
     margin: 0;
