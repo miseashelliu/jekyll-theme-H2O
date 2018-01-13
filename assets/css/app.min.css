@@ -62,9 +62,9 @@ a {
   left: 0;
   width:100%
   height:70px 100%;
-  background-color:slateGray;
+  background-color:#997300;
   z-index:1000;
-  padding: 20px;
+  padding: 15px;
   }
 
 .g-mainheader .g-nav {
