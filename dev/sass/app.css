@@ -116,12 +116,6 @@ a {
   .g-header .nav-pink a:hover {
     color: #FC6794 !important; }
 
-<!.headerUp {
-  top: -65px; }
-
-.headerDown {
-  top: 0; }>
-
 .g-banner {
   height: 460px;
   background-color: #2F3139;
@@ -191,7 +185,7 @@ a {
     width: 100%;
     margin-bottom: 16px;
     padding: 30px 20px;
-    background-color: #fff;
+    background-color: hotPink;
     border: 1px solid #E7EAF1;
     border-radius: 3px;
     box-sizing: border-box;
@@ -348,7 +342,7 @@ a {
 
 .g-sidebar {
   padding: 30px 20px;
-  background-color: #fff;
+  background-color: #hotPink;
   border: 1px solid #E7EAF1;
   border-radius: 3px;
   box-sizing: border-box;
