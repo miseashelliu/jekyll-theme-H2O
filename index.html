@@ -2,6 +2,7 @@
 layout: default
 home-title: Michelle's New Website
 description: pls let this work
+header-img: miseashelliu.github.io/sample header.png
 ---
 <!this is the nav bar area>
 {% include mainheader.html %}
@@ -11,7 +12,7 @@ description: pls let this work
     <h2>{{ page.home-title }}</h2>
     <h3>{{ page.description }}</h3>
     {% if page.header-img %}
-    <img class="header-img" src="miseashelliu.github.io/sample header.png" alt="">
+    <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
     {% endif %}
 </div>
 
