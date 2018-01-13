@@ -62,7 +62,7 @@ a {
   height: 26px;
   padding: 16px 0;
   background-color: black;
-  transition: all .6s;
+  <!transition: all .6s;>
  }
   .g-header .g-logo {
     float: left;
@@ -90,7 +90,7 @@ a {
     opacity: .8;
     border-radius: 3px; }
     .g-header .icon-menu:active {
-      background-color: rgba(255, 255, 255, 0.2); }
+      background-color: black }
   .g-header .g-nav {
     float: right;
     margin-right: 2%; }
@@ -108,7 +108,7 @@ a {
         letter-spacing: 1px;
         color: #fff;
         padding: 0 12px;
-        opacity: .7; }
+        opacity: 1; }
         .g-header .g-nav > ul > li > a:hover {
           opacity: 1; }
   .g-header .nav-default a:hover {
@@ -116,11 +116,11 @@ a {
   .g-header .nav-pink a:hover {
     color: #FC6794 !important; }
 
-.headerUp {
+<!.headerUp {
   top: -65px; }
 
 .headerDown {
-  top: 0; }
+  top: 0; }>
 
 .g-banner {
   height: 460px;
