@@ -68,8 +68,10 @@ a {
   }
 
 .g-mainheader .g-nav {
+  position:relative;
  text-align: center; 
  vertical-align: middle; 
+  left: 50%;
   align-items: center;
     justify-content: center;
  font-size:200%;
