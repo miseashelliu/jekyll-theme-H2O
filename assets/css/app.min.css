@@ -224,7 +224,7 @@ a {
     width: 100%;
     margin-bottom: 16px;
     padding: 30px 20px;
-    background-color: #ffc9b7;
+    background-color: #fff;
     box-sizing: border-box;
     }
     .article-list .article-item:last-child {
@@ -376,7 +376,7 @@ a {
 
 .g-sidebar {
   padding: 30px 20px;
-  background-color: #fff;
+  background-color: #ffc7ba;
   box-sizing: border-box;
    }
   .g-sidebar section {
