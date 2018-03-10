@@ -198,8 +198,11 @@ a {
 .banner-theme-pink {
   /*has to be png for some reason*/
   background:url("miseashelliu.github.io/sashimidreamsinkland2.png");
-  background-repeat: no-repeat;
-  background-size:100% auto;
+  background-repeat:no-repeat;
+  -webkit-background-size: 100% auto;
+  -moz-background-size: 100% auto;
+  -o-background-size: 100% auto;
+  background-size: 100% auto ;
  
 }
 
