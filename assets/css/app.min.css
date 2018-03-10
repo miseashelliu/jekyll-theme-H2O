@@ -198,7 +198,7 @@ a {
 .banner-theme-pink {
   /*has to be png for some reason*/
   background:url("miseashelliu.github.io/sashimidreamsinkland2.png");
-  background-size:cover;
+  background-size:100%;
  
 }
 
