@@ -27,7 +27,7 @@ time, mark, audio, video, iframe, main, header, footer {
 
 body {
   font-family: -apple-system, Verdana, "PingFang SC", "Helvetica Neue", "Arial", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-  color: #656565;
+  color: Black;
   -webkit-font-smoothing: antialiased;
   background-color: White; }
 
@@ -197,9 +197,7 @@ a {
 
 .banner-theme-pink {
   /*has to be png for some reason*/
-  background-image: url("miseashelliu.github.io/sashimidreamsinkland2.png");
-  background-repeat:no-repeat;
-  background-size: 100% 100% ;
+  background: url("miseashelliu.github.io/sashimidreamsinkland2.png");
   
  
 }
