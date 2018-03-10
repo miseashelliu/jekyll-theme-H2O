@@ -197,6 +197,8 @@ a {
 
 .banner-theme-pink {
   background:url("https://raw.githubusercontent.com/miseashelliu/miseashelliu.github.io/master/sashimi%20dreams%20inkland2.jpg");
+  max-width: 100%;
+  max-height: 100%;
 }
 
 
