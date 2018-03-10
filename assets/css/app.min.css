@@ -196,10 +196,11 @@ a {
     z-index: 0; }
 
 .banner-theme-pink {
-  /*has to be png for some reason*/
-  background: url("miseashelliu.github.io/sashimidreamsinkland2.png");
-  
- 
+  background:url("miseashelliu.github.io/sashimidreamsinkland2.png");
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute; 
+  width: 100%;
 }
 
 
