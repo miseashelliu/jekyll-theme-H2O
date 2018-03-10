@@ -29,7 +29,7 @@ body {
   font-family: -apple-system, Verdana, "PingFang SC", "Helvetica Neue", "Arial", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   color: Black;
   -webkit-font-smoothing: antialiased;
-  background-color: White; }
+  background-color: #ffc4ba; }
 
 ul {
   list-style-type: none; }
@@ -52,7 +52,7 @@ a {
 /*** Main style ***/
 .g-container {
   width: 1300px;
-  background-color:White;
+  background-color:#ffc4ba;
   z-index:1000;
 }
 
@@ -376,7 +376,7 @@ a {
 
 .g-sidebar {
   padding: 30px 20px;
-  background-color: #ffc7ba;
+  background-color: #fff;
   box-sizing: border-box;
    }
   .g-sidebar section {
