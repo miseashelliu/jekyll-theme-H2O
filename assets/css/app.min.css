@@ -196,8 +196,11 @@ a {
     z-index: 0; }
 
 .banner-theme-pink {
-  background:url("https://raw.githubusercontent.com/miseashelliu/miseashelliu.github.io/master/sashimi%20dreams%20inkland2.jpg");
- 
+  background:url("https://raw.githubusercontent.com/miseashelliu/miseashelliu.github.io/master/sashimi%20dreams%20inkland2.jpg")no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;;
+  
 }
 
 
