@@ -52,7 +52,7 @@ a {
 /*** Main style ***/
 .g-container {
   width: 1300px;
-  background-color:floralWhite;
+  background-color:White;
   z-index:1000;
 }
 
@@ -196,7 +196,7 @@ a {
     z-index: 0; }
 
 .banner-theme-pink {
-  background:url("miseashelliu.github.io/sashimidreamsinkland2.jpg");
+  background:url('/sashimidreamsinkland2.jpg');
   max-width: 100%;
   max-height: 100%;
 }
